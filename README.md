@@ -11,7 +11,7 @@ I'm a Software Engineer Graduated with Bachelors's in Mechanical and Aerospace E
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/singhadarsh0403/singhadarsh0403/blob/master/gifs/coder.gif" />
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 🛠 I’m currently working on Fullstack Development <br /> React.JS, Node.JS, Express, MongoDB etc 💻.
 - 🚀 I’m currently learning Data Engineering tools.
