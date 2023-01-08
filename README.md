@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Revanth%20Nayak-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/revanth-nayak/)
 [![Twitter Badge](https://img.shields.io/badge/-@adeerishurm-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/adeerishurm)
-[![Instagram Badge](https://img.shields.io/badge/-@adeerishurm-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/adeerishurm/)
+[![Instagram Badge](https://img.shields.io/badge/-@revanth__sonu-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/revanth__sonu/)
 [![Telegram Badge](https://img.shields.io/badge/-@singhadarsh0403-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/singhadarsh0403)
 
 ### Glad to see you here! <img src="https://github.com/singhadarsh0403/singhadarsh0403/blob/master/gifs/emoji.gif" width="27px"> 
