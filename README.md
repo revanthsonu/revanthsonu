@@ -40,7 +40,7 @@ I'm a Software Engineer Graduated with Bachelors's in Mechanical and Aerospace E
 
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=revanthsonu&show_icons=true&hide_border=true" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revanthsonu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #
 
