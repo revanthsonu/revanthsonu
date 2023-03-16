@@ -45,7 +45,6 @@ I'm a Software Engineer Graduated with Bachelors's in Mechanical and Aerospace E
 #
 
 <div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
