@@ -1,4 +1,4 @@
-## Hello World, I'm [Revanth Naik](https://github.com/revanthsonu/) <img src="https://github.com/singhadarsh0403/singhadarsh0403/blob/master/gifs/Hi.gif" width="30px"></h2>
+## Hey Everyone, I'm [Revanth Naik](https://github.com/revanthsonu/) <img src="https://github.com/singhadarsh0403/singhadarsh0403/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Revanth%20Nayak-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/revanth-nayak/)
 [![Twitter Badge](https://img.shields.io/badge/-@revanthsonu007-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/revanthsonu007)
