@@ -20,8 +20,7 @@ I'm a Software Engineer Graduated with Bachelors's in Mechanical and Aerospace E
 - 📝 Checkout my [Resume](https://www.linkedin.com/in/revanth-nayak/).
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,r,react,nodejs,netlify,mongodb,express,mysql,js,html,css&perline=5)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,pytorch,tensorflow,js,html,css,git,vercel,nodejs)](https://skillicons.dev)
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
