@@ -6,7 +6,7 @@
 
 ### Glad to see you here! <img src="https://github.com/singhadarsh0403/singhadarsh0403/blob/master/gifs/emoji.gif" width="27px"> 
 
-I'm a Software Engineer Graduated with Bachelors's in Mechanical and Aerospace Engineering 🎓 from Indian Institute of Technology, Hyderabad 🏛. I'm a Creative Technologist who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-world problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Fullstack Development 🕸️ .
+I'm a Software Engineer Graduated with Bachelors's in Computer Science 🎓 from Indian Institute of Technology, Hyderabad 🏛. I'm a Creative Technologist who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-world problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Fullstack Development 🕸️ .
 
 
 ### Talking about Personal Stuff:
